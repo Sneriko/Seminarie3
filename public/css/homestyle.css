@@ -1,0 +1,18 @@
+body {
+    background-image: url("/Images/background.jpg");
+    background-size: auto;
+}
+
+.header h1 {
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+}
+
+.about p {
+    color: white;
+    margin: 5% 20%;
+    text-align: center;
+}
+
